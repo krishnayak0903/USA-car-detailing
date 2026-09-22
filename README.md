@@ -1,81 +1,81 @@
-# USA Car Detailing
+🚗 USA Car Detailing — Showroom Perfection
 
-Premium automotive detailing landing page built with React, Vite, Tailwind CSS v4, and Framer Motion.
+A modern, premium-style website concept built for a USA-based car detailing business, developed using a Vibe Coding / AI-assisted development workflow.
 
-## Getting Started
+🔗 Live Demo: https://usa-car-detailing.vercel.app
 
-### Prerequisites
+🎯 Project Overview
 
-- Node.js 18+ installed
-- npm, yarn, or pnpm
+This project focuses on creating a professional digital presence for a car detailing business.
 
-### Install & Run
+The goal was to build a visually strong, modern website that communicates the quality of the service, presents the business professionally, and encourages potential customers to take action.
 
-```bash
-# Install dependencies
-npm install
+🤖 Vibe Coding Approach
 
-# Start development server (http://localhost:5173)
-npm run dev
+This project was developed using a Vibe Coding workflow, combining AI coding tools with human direction, iteration, and refinement.
 
-# Build for production
-npm run build
+I used AI as a development assistant to:
 
-# Preview production build
-npm run preview
-```
+- Generate and refine website code
+- Translate design ideas into working UI
+- Rapidly prototype different sections
+- Improve responsive layouts
+- Debug and fix implementation issues
+- Iterate on the website based on visual and functional requirements
 
-## Tech Stack
+The generated implementation was reviewed, customized, tested, and refined throughout the development process.
 
-- **React 19** — UI library
-- **Vite 7** — Build tool & dev server
-- **Tailwind CSS v4** — Utility-first CSS (uses `@tailwindcss/vite` plugin, no config file needed)
-- **Framer Motion** — Scroll animations & 3D hero element
-- **Lucide React** — Icons
-- **TypeScript** — Type safety
+✨ Key Features
 
-## Project Structure
+- 🚘 Premium car detailing presentation
+- 💎 Modern, high-end visual design
+- 📱 Responsive layout
+- 🧽 Service-focused sections
+- 📞 Clear call-to-action areas
+- 🎯 Business-oriented landing page
+- ⚡ Fast and modern user experience
+- 🌐 Deployed on Vercel
 
-```
-usa-car-detailing/
-├── public/
-│   ├── favicon.svg
-│   └── images/              # Before/after car images
-├── src/
-│   ├── components/          # Page sections
-│   │   ├── navbar.tsx
-│   │   ├── hero.tsx
-│   │   ├── before-after.tsx
-│   │   ├── services.tsx
-│   │   ├── why-choose-us.tsx
-│   │   ├── pricing.tsx
-│   │   ├── testimonials.tsx
-│   │   ├── contact.tsx
-│   │   └── footer.tsx
-│   ├── lib/
-│   │   └── utils.ts         # cn() utility
-│   ├── pages/
-│   │   └── home.tsx         # Main page assembly
-│   ├── App.tsx
-│   ├── index.css            # Tailwind + CSS variables
-│   └── main.tsx
-├── index.html
-├── vite.config.ts
-├── tsconfig.json
-└── package.json
-```
+🛠️ Technologies & Tools
 
-## Deploying to Vercel
+- HTML
+- CSS
+- JavaScript
+- AI-assisted coding / Vibe Coding
+- Vercel
 
-1. Push the project to a GitHub repository
-2. Import the repository in [Vercel](https://vercel.com)
-3. Vercel auto-detects Vite — no additional configuration needed
-4. Click **Deploy**
+🧠 Skills Demonstrated
 
-## Customization
+This project demonstrates my ability to:
 
-- **Colors** — Edit CSS variables in `src/index.css` (`:root` block)
-- **Content** — Update text directly in each component file in `src/components/`
-- **Images** — Replace files in `public/images/` with real before/after photos (keep the same filenames, or update paths in `src/components/before-after.tsx`)
-- **Pricing** — Edit the `plans` array in `src/components/pricing.tsx`
-- **Contact info** — Edit address, phone, and hours in `src/components/contact.tsx`
+- Build websites using AI-assisted development workflows
+- Convert business requirements into website concepts
+- Rapidly prototype and iterate
+- Work with AI-generated code
+- Debug and refine generated implementations
+- Focus on responsive UI/UX
+- Build websites for real-world business use cases
+- Deploy web projects
+
+📸 Preview
+
+Visit the live demo to explore the complete website.
+
+Live: https://usa-car-detailing.vercel.app
+
+📚 Key Learning
+
+This project helped me understand how Vibe Coding can accelerate the web development process while still requiring human decision-making for design, requirements, debugging, testing, and refinement.
+
+👨‍💻 Author
+
+Krish Nayak
+
+BSc Computer Science Graduate
+
+Interested in:
+Vibe Coding • AI Engineering • Backend Development • GenAI • AI/ML
+
+---
+
+⭐ Built as a practical project to explore AI-assisted product development and rapid web prototyping.
